@@ -1,0 +1,230 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CSVReader",
+            "request": "launch",
+            "mainClass": "CSVReader",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "Calc3MethodTest",
+            "request": "launch",
+            "mainClass": "Calc3MethodTest",
+            "projectName": "netpro2025_2bf07c6f",
+            "args": [
+                "1",
+                "2"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Calc2ScannerFile",
+            "request": "launch",
+            "mainClass": "Calc2ScannerFile",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "Calc2Scanner",
+            "request": "launch",
+            "mainClass": "Calc2Scanner",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "Calc2",
+            "request": "launch",
+            "mainClass": "Calc2",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "Calc1",
+            "request": "launch",
+            "mainClass": "Calc1",
+            "projectName": "netpro2025_2bf07c6f",
+            "args": [
+                "9",
+                "44"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "CopyFileExample",
+            "request": "launch",
+            "mainClass": "CopyFileExample",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "ReadExample",
+            "request": "launch",
+            "mainClass": "ReadExample",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "WriteExample",
+            "request": "launch",
+            "mainClass": "WriteExample",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "PrintYourAge",
+            "request": "launch",
+            "mainClass": "PrintYourAge",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "ScannerReadExample",
+            "request": "launch",
+            "mainClass": "ScannerReadExample",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "KeyboardInputExample",
+            "request": "launch",
+            "mainClass": "KeyboardInputExample",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "MyExceptionTest",
+            "request": "launch",
+            "mainClass": "MyExceptionTest",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "TryCatchExample",
+            "request": "launch",
+            "mainClass": "TryCatchExample",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "StringBufferTest",
+            "request": "launch",
+            "mainClass": "StringBufferTest",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "StringOperationTest",
+            "request": "launch",
+            "mainClass": "StringOperationTest",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "StringExamples",
+            "request": "launch",
+            "mainClass": "StringExamples",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest",
+            "request": "launch",
+            "mainClass": "ArrayTest",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "LoopExample",
+            "request": "launch",
+            "mainClass": "LoopExample",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "IfArgsTest",
+            "request": "launch",
+            "mainClass": "IfArgsTest",
+            "projectName": "netpro2025_2bf07c6f",
+            "args": [
+                "0"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "IfArgs",
+            "request": "launch",
+            "mainClass": "IfArgs",
+            "projectName": "netpro2025_2bf07c6f",
+            "args": [
+                "4"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "IfTest",
+            "request": "launch",
+            "mainClass": "IfTest",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "ConditionalStatements",
+            "request": "launch",
+            "mainClass": "ConditionalStatements",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "BugFix4",
+            "request": "launch",
+            "mainClass": "BugFix4",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "BugFix3",
+            "request": "launch",
+            "mainClass": "BugFix3",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "BugFix2",
+            "request": "launch",
+            "mainClass": "BugFix2",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "BugFix1",
+            "request": "launch",
+            "mainClass": "BugFix1",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HelloArgs",
+            "request": "launch",
+            "mainClass": "HelloArgs",
+            "projectName": "netpro2025_2bf07c6f",
+            "args": [
+                "B0",
+                "B1",
+                "B2",
+                "B3"
+            ]
+        }
+    ]
+}
