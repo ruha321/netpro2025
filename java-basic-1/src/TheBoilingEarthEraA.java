@@ -11,7 +11,7 @@ public class TheBoilingEarthEraA extends TheBoilingEarthEra {
 
     public void printTemperatures() {
         for (int i = 0; i < temperatures[year2025].length; i++) {
-            System.out.printf("2025年7月%d日:\t%.2f℃\n", i + 1, temperatures[year2025][i]);
+            System.out.printf("2025年7月%d日:\t%.1f℃\n", i + 1, temperatures[year2025][i]);
         }
     }
     

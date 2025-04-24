@@ -37,7 +37,7 @@ public class PrintYourAge {
 			int age = Integer.parseInt(line);
 			// 年齢がマイナスまたは120以上の場合、再度入力を促す
 			while (age < 0 || age >= 120) {
-				System.out.println("年齢は0歳以上120歳以下で入力してください。");
+				System.out.println("年齢は0歳以上120歳未満で入力してください。");
 				System.out.println("何歳ですか?");
 				line = sc.nextLine();
 				age = Integer.parseInt(line);
