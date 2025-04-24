@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TheBoilingEarthEraC",
+            "request": "launch",
+            "mainClass": "TheBoilingEarthEraC",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
             "name": "TheBoilingEarthEraB",
             "request": "launch",
             "mainClass": "TheBoilingEarthEraB",
