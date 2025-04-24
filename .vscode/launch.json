@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TheBoilingEarthEraA",
+            "request": "launch",
+            "mainClass": "TheBoilingEarthEraA",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
             "name": "CSVReader",
             "request": "launch",
             "mainClass": "CSVReader",
