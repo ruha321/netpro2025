@@ -6,6 +6,38 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Calc3MethodTestInstance",
+            "request": "launch",
+            "mainClass": "Calc3MethodTestInstance",
+            "projectName": "netpro2025_2bf07c6f",
+            "args": [
+                "1",
+                "2"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "ClassC",
+            "request": "launch",
+            "mainClass": "ClassC",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "ClassA",
+            "request": "launch",
+            "mainClass": "ClassA",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "makeTaiyaki",
+            "request": "launch",
+            "mainClass": "makeTaiyaki",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
             "name": "LoopAdvance",
             "request": "launch",
             "mainClass": "LoopAdvance",
