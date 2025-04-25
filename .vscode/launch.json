@@ -6,9 +6,65 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SynchronizedMain",
+            "request": "launch",
+            "mainClass": "SynchronizedMain",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionExample",
+            "request": "launch",
+            "mainClass": "ExceptionExample",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "RecursiveExample",
+            "request": "launch",
+            "mainClass": "RecursiveExample",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "Example",
+            "request": "launch",
+            "mainClass": "Example",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
             "name": "AverageB",
             "request": "launch",
             "mainClass": "AverageB",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "AverageA",
+            "request": "launch",
+            "mainClass": "AverageA",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "CarTest",
+            "request": "launch",
+            "mainClass": "CarTest",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Car",
             "projectName": "netpro2025_2bf07c6f"
         },
         {
