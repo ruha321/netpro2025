@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExampleQueue",
+            "request": "launch",
+            "mainClass": "ExampleQueue",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "ExampleMap",
+            "request": "launch",
+            "mainClass": "ExampleMap",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "ExampleSet",
+            "request": "launch",
+            "mainClass": "ExampleSet",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "ExampleList",
+            "request": "launch",
+            "mainClass": "ExampleList",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
             "name": "TheBoilingEarthEraC",
             "request": "launch",
             "mainClass": "TheBoilingEarthEraC",
