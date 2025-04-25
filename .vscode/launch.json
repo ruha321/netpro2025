@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LoopAdvance",
+            "request": "launch",
+            "mainClass": "LoopAdvance",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "RandSwitch",
+            "request": "launch",
+            "mainClass": "RandSwitch",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "WhileTest",
+            "request": "launch",
+            "mainClass": "WhileTest",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "ExtendedFor",
+            "request": "launch",
+            "mainClass": "ExtendedFor",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
+            "name": "ForTest",
+            "request": "launch",
+            "mainClass": "ForTest",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
             "name": "ExampleQueue",
             "request": "launch",
             "mainClass": "ExampleQueue",
