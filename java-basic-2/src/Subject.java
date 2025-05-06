@@ -1,4 +1,4 @@
-public class Subject {
+public class Subject implements Comparable<Subject>{
 	String name;
 	int score;
 	private int studentid;
@@ -31,6 +31,11 @@ public class Subject {
     }
     public int getStudentId() {
         return studentid;
+    }
+
+    @Override
+    public int compareTo(Subject s) {
+        return this.getScore() - s.getScore();
     }
 }
 

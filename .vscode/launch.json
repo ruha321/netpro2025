@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AverageB",
+            "request": "launch",
+            "mainClass": "AverageB",
+            "projectName": "netpro2025_2bf07c6f"
+        },
+        {
+            "type": "java",
             "name": "Calc3MethodTestInstance",
             "request": "launch",
             "mainClass": "Calc3MethodTestInstance",
