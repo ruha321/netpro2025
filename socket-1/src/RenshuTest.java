@@ -10,8 +10,7 @@ class RenshuTest {
         assertEquals(0, renshu.doubleValue(0));
         assertEquals(-6, renshu.doubleValue(-3));
     }
-// 以下, 課題1を実装したらコメントアウトを解除してください
-/*
+
     @Test
     void testSumUpToN() {
         assertEquals(55, renshu.sumUpToN(10));
@@ -82,5 +81,4 @@ class RenshuTest {
         int[] c = { 1, 2 };
         assertFalse(renshu.swapTwoArrays(a, c)); // testing with different lengths
     }
-*/
 }
